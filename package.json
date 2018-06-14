@@ -1,0 +1,38 @@
+{
+  "name": "feathers-notifme",
+  "version": "1.0.0",
+  "description": "Feathers notification service",
+  "main": "lib/",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/feathers-nuxt/feathers-notifme.git"
+  },
+  "keywords": [
+    "feathers",
+    "feathers-plugin",
+    "notifme",
+    "email",
+    "sms",
+    "push",
+    "webpush",
+    "slack",
+    "notification"
+  ],
+  "author": {
+    "name": "kelvin kharhys",
+    "email": "nrhyska@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/feathers-nuxt/feathers-notifme/issues"
+  },
+  "homepage": "https://github.com/feathers-nuxt/feathers-notifme#readme",
+  "dependencies": {
+    "debug": "^3.1.0",
+    "notifme-sdk": "^1.7.0",
+    "uberproto": "^2.0.1"
+  }
+}
