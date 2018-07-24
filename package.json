@@ -1,5 +1,5 @@
 {
-  "name": "feathers-notifme",
+  "name": "@feathers-nuxt/feathers-notifme",
   "version": "1.0.1-beta.0",
   "description": "Feathers notification service",
   "main": "lib/",
