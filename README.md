@@ -5,7 +5,7 @@
 ## Installation
 
 ```shell
-npm install github:feathers-nuxt/feathers-notifme --save
+npm install @feathers-nuxt/feathers-notifme --save
 ```
 
 ## API
